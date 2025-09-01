@@ -34,7 +34,7 @@ Contoh:
 - Aplikasi ini menggunakan database **MySQL**.  
 - **Database tidak disertakan langsung di repository.**  
 - Jika Anda ingin menggunakan database:  
-  👉 Silakan hubungi saya melalui WA 08225297616, dan saya akan memberikan akses database dengan password.  
+  👉 Silakan hubungi saya melalui WhatsApp 083159205998, dan saya akan memberikan akses database dengan password.  
 - Saya tidak menjual database ini, tapi saya berharap jika Anda merasa aplikasi ini bermanfaat, bisa memberikan **seikhlasnya** untuk dukungan.
 
 ---
