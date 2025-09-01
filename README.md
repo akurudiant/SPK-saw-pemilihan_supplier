@@ -15,10 +15,9 @@ Metode SAW dipilih karena sederhana, mudah dipahami, dan banyak digunakan dalam 
 _Tambahkan screenshot aplikasi di sini_  
 Contoh:  
 
-![Tampilan Aplikasi]
-(images/1.png)
-(images/2.png)
-(images/3.png)
+![Tampilan Aplikasi](images/1.png)
+![Tampilan Aplikasi](images/2.png)
+![Tampilan Aplikasi](images/3.png)
 
 ---
 
