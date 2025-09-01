@@ -12,8 +12,6 @@ Metode SAW dipilih karena sederhana, mudah dipahami, dan banyak digunakan dalam 
 ---
 
 ## 🖼️ Screenshot
-_Tambahkan screenshot aplikasi di sini_  
-Contoh:  
 
 ![Tampilan Aplikasi](images/1.png)
 ![Tampilan Aplikasi](images/2.png)
