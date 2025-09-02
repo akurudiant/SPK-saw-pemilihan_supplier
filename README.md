@@ -30,7 +30,7 @@ Metode SAW dipilih karena sederhana, mudah dipahami, dan banyak digunakan dalam 
 
 ## 🗄️ Database
 - Aplikasi ini menggunakan database **MySQL**.  
-- **Database tidak disertakan langsung di repository.**  
+- **Database disertakan langsung di repository, tetapi berpassword untuk membukanya**  
 - Jika Anda ingin menggunakan database:  
   👉 Silakan hubungi saya melalui WhatsApp 083159205998, dan saya akan memberikan akses database dengan password.  
 - Saya tidak menjual database ini, tapi saya berharap jika Anda merasa aplikasi ini bermanfaat, bisa memberikan **seikhlasnya** untuk dukungan.
